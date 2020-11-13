@@ -1,0 +1,141 @@
+X-Received: by 10.236.127.144 with SMTP id d16mr32900445yhi.15.1357657307884;
+        Tue, 08 Jan 2013 07:01:47 -0800 (PST)
+X-BeenThere: ukg...@googlegroups.com
+Received: by 10.49.87.227 with SMTP id bb3ls315368qeb.3.gmail; Tue, 08 Jan
+ 2013 07:01:46 -0800 (PST)
+X-Received: by 10.224.178.204 with SMTP id bn12mr7866795qab.1.1357657306970;
+        Tue, 08 Jan 2013 07:01:46 -0800 (PST)
+X-Received: by 10.224.178.204 with SMTP id bn12mr7866793qab.1.1357657306930;
+        Tue, 08 Jan 2013 07:01:46 -0800 (PST)
+Return-Path: <punto...@gmail.com>
+Received: from mail-qc0-f179.google.com (mail-qc0-f179.google.com [209.85.216.179])
+        by gmr-mx.google.com with ESMTPS id y1si6807234qco.0.2013.01.08.07.01.46
+        (version=TLSv1/SSLv3 cipher=OTHER);
+        Tue, 08 Jan 2013 07:01:46 -0800 (PST)
+Received-SPF: pass (google.com: domain of punto...@gmail.com designates 209.85.216.179 as permitted sender) client-ip=209.85.216.179;
+Authentication-Results: gmr-mx.google.com; spf=pass (google.com: domain of punto...@gmail.com designates 209.85.216.179 as permitted sender) smtp.mail=punto...@gmail.com; dkim=pass head...@gmail.com
+Received: by mail-qc0-f179.google.com with SMTP id b14so663636qcs.10
+        for <ukg...@googlegroups.com>; Tue, 08 Jan 2013 07:01:46 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:in-reply-to:references:date:message-id:subject:from:to
+         :cc:content-type;
+        bh=WHgAUV2YdRx7hnYYaxIHdXbizv0xcqzKLYnmalC8tsQ=;
+        b=hginuEu42VJYcaA6GThK8SAiBLiH4VKM6wcwbyrtv16A/HlcWSZk9J0sNuBBjphtbp
+         yVMCZvoorO2dYbrmn9ys4gjAfsYusCrhj+t3JmyD8XtowzuacZU+mpValSPNby/PkitM
+         YyEU4mwmNTUFmetCB9E4t17Op67lXC6QJ/R8Ns3Cj7tBiLh3fRxcwPm1PCxAvKm/1bAz
+         ruHCTVQ9wflN6DMdJA21l9bsjNN0j8T9qFuH33jBKDa5pEeuHyOR+SNIiPKvPrNUSqwW
+         eDkJ1Z5mhw4A8DVJ/Kf9ixWyVYMYdM7XCYZzpVYQf5nZ7SIPOuMxvVrtIzoEvOHd4roi
+         kMJQ==
+MIME-Version: 1.0
+Received: by 10.224.110.1 with SMTP id l1mr5210053qap.21.1357657306784; Tue,
+ 08 Jan 2013 07:01:46 -0800 (PST)
+Received: by 10.49.14.69 with HTTP; Tue, 8 Jan 2013 07:01:46 -0800 (PST)
+In-Reply-To: <f7b1dc7a-65e0-45ce-a2aa-6521d5786b15@googlegroups.com>
+References: <f7b1dc7a-65e0-45ce-a2aa-6521d5786b15@googlegroups.com>
+Date: Tue, 8 Jan 2013 15:01:46 +0000
+Message-ID: <CA+oG9b0_0pdXM9-Ntyhp4B6WrP15zOYJzL-9WmCBP30iUzcRsg@mail.gmail.com>
+Subject: Re: [ukgc13:46] Diversity at tech events
+From: Giuseppe Sollazzo <punto...@gmail.com>
+To: "Sharon O'Dea" <sharo...@gmail.com>
+Cc: ukg...@googlegroups.com
+Content-Type: multipart/alternative; boundary=20cf3074d5607f63af04d2c839af
+
+--20cf3074d5607f63af04d2c839af
+Content-Type: text/plain; charset=ISO-8859-1
+
+Hi Sharon,
+this is a good idea.
+
+An unconference is also a good place to "run some stats", given anyone is
+welcome to talk...
+
+Giuseppe
+
+On Tue, Jan 8, 2013 at 2:57 PM, Sharon O'Dea <sharo...@gmail.com> wrote:
+
+> Thinking about the recent discussion/debate about the low number of women
+> on panels at tech conferences.
+>
+> Is this something you think is an issue?
+>
+> Would you boycott all-male panels?
+>
+> How can we improve diversity (not just gender-wise) at conferences and
+> events?
+>
+> Are there practical things we can do?
+>
+> Something I'm keen to discuss - but it would benefit from having some men
+> involved as well as women.
+>
+> --
+> You received this message because you are subscribed to the Google Groups
+> "#ukgc13 United Kingdom Government Camp 2013" group.
+> To post to this group, send an email to ukg...@googlegroups.com.
+> To unsubscribe from this group, send email to
+> ukg...@googlegroups.com.
+> For more options, visit https://groups.google.com/groups/opt_out.
+>
+>
+>
+
+
+
+-- 
+Giuseppe Sollazzo
+- http://www.puntofisso.net
+- http://twitter.com/puntofisso
+
+My newsletter is available at: http://tinyletter.com/puntofisso
+
+"Gorau chwarae, cyd chwarae'"
+
+--20cf3074d5607f63af04d2c839af
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+Hi Sharon,<div>this is a good idea.=A0</div><div><br></div><div>An unconfer=
+ence is also a good place to &quot;run some stats&quot;, given anyone is we=
+lcome to talk...</div><div><br></div><div>Giuseppe<br><br><div class=3D"gma=
+il_quote">
+On Tue, Jan 8, 2013 at 2:57 PM, Sharon O&#39;Dea <span dir=3D"ltr">&lt;<a h=
+ref=3D"mailto:sharo...@gmail.com" target=3D"_blank">sharo...@gmail.com</a>&=
+gt;</span> wrote:<br><blockquote class=3D"gmail_quote" style=3D"margin:0 0 =
+0 .8ex;border-left:1px #ccc solid;padding-left:1ex">
+Thinking about the recent discussion/debate about the low number of women o=
+n panels at tech conferences.<div><br></div><div>Is this something you thin=
+k is an issue?=A0</div><div><br></div><div>Would you boycott all-male panel=
+s?=A0</div>
+<div><br></div><div>How can we improve diversity (not just gender-wise) at =
+conferences and events?</div><div><br></div><div>Are there practical things=
+ we can do?</div><div><br></div><div>Something I&#39;m keen to discuss - bu=
+t it would benefit from having some men involved as well as women.</div>
+<span class=3D"HOEnZb"><font color=3D"#888888">
+
+<p></p>
+
+-- <br>
+You received this message because you are subscribed to the Google Groups &=
+quot;#ukgc13 United Kingdom Government Camp 2013&quot; group.<br>
+To post to this group, send an email to <a href=3D"mailto:ukg...@googlegrou=
+ps.com" target=3D"_blank">ukg...@googlegroups.com</a>.<br>
+To unsubscribe from this group, send email to <a href=3D"mailto:ukgc13%2Bu.=
+..@googlegroups.com" target=3D"_blank">ukg...@googlegroups.com</a>.<br>
+For more options, visit <a href=3D"https://groups.google.com/groups/opt_out=
+" target=3D"_blank">https://groups.google.com/groups/opt_out</a>.<br>
+=A0<br>
+=A0<br>
+</font></span></blockquote></div><br><br clear=3D"all"><div><br></div>-- <b=
+r>Giuseppe Sollazzo<br>- <a href=3D"http://www.puntofisso.net" target=3D"_b=
+lank">http://www.puntofisso.net</a><br>- <a href=3D"http://twitter.com/punt=
+ofisso" target=3D"_blank">http://twitter.com/puntofisso</a><br>
+<br>My newsletter is available at: <a href=3D"http://tinyletter.com/puntofi=
+sso" target=3D"_blank">http://tinyletter.com/puntofisso</a><br><br>&quot;<s=
+pan style=3D"font-family:sans-serif;font-size:13px;line-height:19px;backgro=
+und-color:rgb(255,255,255)">Gorau chwarae, cyd chwarae&#39;</span>&quot;<br=
+>
+<br>
+</div>
+
+--20cf3074d5607f63af04d2c839af--

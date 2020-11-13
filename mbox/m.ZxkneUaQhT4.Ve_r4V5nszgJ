@@ -1,0 +1,75 @@
+X-Received: by 10.42.235.4 with SMTP id ke4mr79791311icb.15.1420563457712;
+        Tue, 06 Jan 2015 08:57:37 -0800 (PST)
+X-BeenThere: ukgovcamp@googlegroups.com
+Received: by 10.140.107.8 with SMTP id g8ls176472qgf.22.gmail; Tue, 06 Jan
+ 2015 08:57:37 -0800 (PST)
+X-Received: by 10.140.108.166 with SMTP id j35mr46312qgf.18.1420563457285;
+        Tue, 06 Jan 2015 08:57:37 -0800 (PST)
+Date: Tue, 6 Jan 2015 08:57:36 -0800 (PST)
+From: ddinsdale2000 <da...@clipzonk.com>
+To: ukgovcamp@googlegroups.com
+Message-Id: <39eb41ee-69dd-4347-b2d4-acfaa862c99b@googlegroups.com>
+Subject: Who will ensure Government APIs are good?
+MIME-Version: 1.0
+Content-Type: multipart/mixed; 
+	boundary="----=_Part_14265_687061758.1420563456470"
+
+------=_Part_14265_687061758.1420563456470
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_14266_427396787.1420563456470"
+
+------=_Part_14266_427396787.1420563456470
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Government has announced that the next phase of 'Digital' will include the 
+creation of APIs (for example see Efficiency and Reform in the next 
+Parliament - Oct 2014 - 
+https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/382552/Efficiency_and_reform_in_the_next_Parliament.pdf
+).
+
+How can we make these APIs work best for those who will consume them? 
+ There are many questions:
+
+   - What are the best technical and operational standards for APIs.  
+   - How will change be managed?  
+   - How will Government consult on what is and is not useful?
+   - Should Government have an Open API Institute like the Open Data 
+   Institute?  
+   - Is the Open Data Institute also the Open API Institute?
+   - etc.
+
+My experience consuming Government data leads me to worry.  Specifications 
+for data feeds are variable or non existent in many cases.  Changes are 
+ad-hoc and quality is also variable.  How can we help Government go mass 
+market with APIs without making it a headache for people who use those APIs?
+
+
+
+------=_Part_14266_427396787.1420563456470
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr">Government has announced that the next phase of 'Digital' =
+will include the creation of APIs (for example see Efficiency and Reform in=
+ the next Parliament - Oct 2014 - <a href=3D"https://www.gov.uk/government/=
+uploads/system/uploads/attachment_data/file/382552/Efficiency_and_reform_in=
+_the_next_Parliament.pdf">https://www.gov.uk/government/uploads/system/uplo=
+ads/attachment_data/file/382552/Efficiency_and_reform_in_the_next_Parliamen=
+t.pdf</a>).<div><br></div><div>How can we make these APIs work best for tho=
+se who will consume them? &nbsp;There are many questions:</div><div><ul><li=
+>What are the best technical and operational standards for APIs. &nbsp;</li=
+><li>How will change be managed? &nbsp;</li><li>How will Government consult=
+ on what is and is not useful?<br></li><li>Should Government have an Open A=
+PI Institute like the Open Data Institute? &nbsp;</li><li>Is the Open Data =
+Institute also the Open API Institute?</li><li>etc.</li></ul><div><span sty=
+le=3D"line-height: 17px;">My experience consuming Government data leads me =
+to worry. &nbsp;Specifications for data feeds are variable or non existent =
+in many cases. &nbsp;Changes are ad-hoc and quality is also variable. &nbsp=
+;How can we help Government go mass market with APIs without making it a he=
+adache for people who use those APIs?</span></div></div><div><span style=3D=
+"line-height: 17px;"><br></span></div><div><span style=3D"line-height: 17px=
+;"><br></span></div></div>
+------=_Part_14266_427396787.1420563456470--
+
+------=_Part_14265_687061758.1420563456470--

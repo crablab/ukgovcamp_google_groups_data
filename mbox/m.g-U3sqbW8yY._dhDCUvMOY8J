@@ -1,0 +1,304 @@
+X-Received: by 10.180.74.79 with SMTP id r15mr407835wiv.4.1357728131531;
+        Wed, 09 Jan 2013 02:42:11 -0800 (PST)
+X-BeenThere: ukg...@googlegroups.com
+Received: by 10.180.75.45 with SMTP id z13ls817470wiv.43.gmail; Wed, 09 Jan
+ 2013 02:42:10 -0800 (PST)
+X-Received: by 10.180.100.74 with SMTP id ew10mr404295wib.7.1357728130877;
+        Wed, 09 Jan 2013 02:42:10 -0800 (PST)
+X-Received: by 10.180.100.74 with SMTP id ew10mr404294wib.7.1357728130854;
+        Wed, 09 Jan 2013 02:42:10 -0800 (PST)
+Return-Path: <Pete....@bournemouth.gov.uk>
+Received: from mail10.bournemouth.gov.uk (mailhost.bournemouth.gov.uk. [213.123.37.2])
+        by gmr-mx.google.com with ESMTP id cn1si230741wib.1.2013.01.09.02.42.10;
+        Wed, 09 Jan 2013 02:42:10 -0800 (PST)
+Received-SPF: pass (google.com: best guess record for domain of Pete....@bournemouth.gov.uk designates 213.123.37.2 as permitted sender) client-ip=213.123.37.2;
+Authentication-Results: gmr-mx.google.com;
+       spf=pass (google.com: best guess record for domain of Pete....@bournemouth.gov.uk designates 213.123.37.2 as permitted sender) smtp.mail=Pete....@bournemouth.gov.uk
+Received: from mailconnector.bbc-cs.bbc.net ([10.10.100.162]) by 
+    mail10.bournemouth.gov.uk (8.14.1/8.14.1) with ESMTP id 
+    r09Ag5Jj004146 for <ukg...@googlegroups.com>; Wed, 9 Jan 2013 
+    10:42:06 GMT
+Received: from MAILSERVER.bbc-cs.bbc.net ([10.10.100.163]) by 
+    mailconnector.bbc-cs.bbc.net with Microsoft SMTPSVC(6.0.3790.4675); 
+    Wed, 9 Jan 2013 10:42:05 +0000
+X-MimeOLE: Produced By Microsoft Exchange V6.5
+Content-class: urn:content-classes:message
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+    boundary="----_=_NextPart_001_01CDEE55.F758FEEA"
+Disposition-Notification-To: "Pete Olding" <Pete....@Bournemouth.gov.uk>
+Subject: Integration with LOB systems is being achieved via a Digital Platform
+Date: Wed, 9 Jan 2013 10:42:05 -0000
+Message-ID: <7071EEEF6FB5B74A8CED3C1CDE7942D209FE96A5@MAILSERVER.bbc-cs.bbc.net>
+X-MS-Has-Attach: 
+X-MS-TNEF-Correlator: 
+Thread-Topic: Integration with LOB systems is being achieved via a Digital 
+    Platform
+Thread-Index: Ac3uVff5LYVGh9N+RailQiHRh64B1Q==
+From: "Pete Olding" <Pete....@Bournemouth.gov.uk>
+To: <ukg...@googlegroups.com>
+X-OriginalArrivalTime: 09 Jan 2013 10:42:05.0485 (UTC) 
+    FILETIME=[F7747DD0:01CDEE55]
+
+------_=_NextPart_001_01CDEE55.F758FEEA
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+Hi all,
+
+=20
+
+My Line manger's boss has also asked me if I could find out about=20
+
+=20
+
+How integration with LOB (Line of Business) systems is being achieved
+via a Digital Platform i.e. using 3rd party connectors or development
+tools (NDL, direct access to underlying databases, etc)
+
+=20
+
+So can I ask what you approach is on integration on back end systems is
+to web portals? Have you linked up any back end systems? How did you do
+it? What are your thoughts on this?
+
+=20
+
+At Bournemouth we have, for example, feeds from our LLPG system through
+SQL server to out My Property Portal. Other feeds from Council Tax,
+Electoral Register systems etc provide information to a Single View of
+Customer system on our Intranet where staff to check for various
+information on the property, from ward and councillor information to
+Council Tax data (login required) etc.
+
+=20
+
+Thanks
+
+=20
+
+Peter=20
+
+=20
+
+=20
+
+=20
+
+Peter Olding
+Business Developer (Web / GIS)
+ICT Operations
+
+Telephone: 01202 943413
+Email: peter...@mouchel.com
+VISIT OUR WEBSITE: www.bournemouth.gov.uk
+<http://www.bournemouth.gov.uk/>=20
+
+Working in partnership with Mouchel
+
+=20
+
+
+**********************************************************************
+This email and any files transmitted with it are confidential and
+intended solely for the use of the individual or entity to whom they
+are addressed. If you have received this email in error please notify
+the system manager.
+
+This footnote also confirms that this email message has been checked=20
+for the presence of computer viruses.
+
+**********************************************************************
+
+------_=_NextPart_001_01CDEE55.F758FEEA
+Content-Type: text/html; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" xmlns:o=3D"urn:schemas-micr=
+osoft-com:office:office" xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns:st1=3D"urn:schemas-microsoft-com:office:smarttags" xmlns=3D"http://ww=
+w.w3.org/TR/REC-html40">
+
+<head>
+<META HTTP-EQUIV=3D"Content-Type" CONTENT=3D"text/html; charset=3Dus-ascii"=
+>
+<meta name=3DGenerator content=3D"Microsoft Word 11 (filtered medium)">
+<o:SmartTagType namespaceuri=3D"urn:schemas-microsoft-com:office:smarttags"
+ name=3D"place"/>
+<!--[if !mso]>
+<style>
+st1\:*{behavior:url(#default#ieooui) }
+</style>
+<![endif]-->
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+=09{font-family:"Trebuchet MS";
+=09panose-1:2 11 6 3 2 2 2 2 2 4;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+=09{margin:0cm;
+=09margin-bottom:.0001pt;
+=09font-size:10.0pt;
+=09font-family:Arial;}
+a:link, span.MsoHyperlink
+=09{color:blue;
+=09text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+=09{color:purple;
+=09text-decoration:underline;}
+span.EmailStyle17
+=09{mso-style-type:personal-compose;
+=09font-family:Arial;
+=09color:windowtext;}
+@page Section1
+=09{size:595.3pt 841.9pt;
+=09margin:72.0pt 90.0pt 72.0pt 90.0pt;}
+div.Section1
+=09{page:Section1;}
+-->
+</style>
+<!--[if gte mso 9]><xml>
+ <o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <o:shapelayout v:ext=3D"edit">
+  <o:idmap v:ext=3D"edit" data=3D"1" />
+ </o:shapelayout></xml><![endif]-->
+</head>
+
+<body lang=3DEN-GB link=3Dblue vlink=3Dpurple>
+
+<div class=3DSection1>
+
+<p class=3DMsoNormal><font size=3D2 color=3Dblack face=3DArial><span style=
+=3D'font-size:
+10.0pt;color:black'>Hi all,<o:p></o:p></span></font></p>
+
+<p class=3DMsoNormal><font size=3D2 color=3Dblack face=3DArial><span style=
+=3D'font-size:
+10.0pt;color:black'><o:p>&nbsp;</o:p></span></font></p>
+
+<p class=3DMsoNormal><font size=3D2 color=3Dblack face=3DArial><span style=
+=3D'font-size:
+10.0pt;color:black'>My Line manger&#8217;s boss has also asked me if I coul=
+d
+find out about <o:p></o:p></span></font></p>
+
+<p class=3DMsoNormal><font size=3D2 color=3Dblack face=3DArial><span style=
+=3D'font-size:
+10.0pt;color:black'><o:p>&nbsp;</o:p></span></font></p>
+
+<p class=3DMsoNormal><font size=3D2 color=3Dblue face=3DArial><span style=
+=3D'font-size:
+10.0pt;color:blue'>How integration with LOB (Line of Business) systems is b=
+eing
+achieved via a Digital Platform i.e. using 3<sup>rd</sup> party connectors =
+or
+development tools (NDL, direct access to underlying databases, etc)<o:p></o=
+:p></span></font></p>
+
+<p class=3DMsoNormal><font size=3D2 color=3Dblack face=3DArial><span style=
+=3D'font-size:
+10.0pt;color:black'><o:p>&nbsp;</o:p></span></font></p>
+
+<p class=3DMsoNormal><font size=3D2 color=3Dblack face=3DArial><span style=
+=3D'font-size:
+10.0pt;color:black'>So can I ask what you approach is on integration on bac=
+k
+end systems is to web portals? Have you linked up any back end systems? How=
+ did
+you do it? What are your thoughts on this?<o:p></o:p></span></font></p>
+
+<p class=3DMsoNormal><font size=3D2 color=3Dblack face=3DArial><span style=
+=3D'font-size:
+10.0pt;color:black'><o:p>&nbsp;</o:p></span></font></p>
+
+<p class=3DMsoNormal><font size=3D2 color=3Dblack face=3DArial><span style=
+=3D'font-size:
+10.0pt;color:black'>At <st1:place w:st=3D"on">Bournemouth</st1:place> we ha=
+ve, for
+example, feeds from our LLPG system through SQL server to out My Property
+Portal. Other feeds from Council Tax, Electoral Register systems etc provid=
+e
+information to a Single View of Customer system on our Intranet where staff=
+ to
+check for various information on the property, from ward and councillor inf=
+ormation
+to Council Tax data (login required) etc.<o:p></o:p></span></font></p>
+
+<p class=3DMsoNormal><font size=3D2 color=3Dblack face=3DArial><span style=
+=3D'font-size:
+10.0pt;color:black'><o:p>&nbsp;</o:p></span></font></p>
+
+<p class=3DMsoNormal><font size=3D2 color=3Dblack face=3DArial><span style=
+=3D'font-size:
+10.0pt;color:black'>Thanks<o:p></o:p></span></font></p>
+
+<p class=3DMsoNormal><font size=3D2 color=3Dblack face=3DArial><span style=
+=3D'font-size:
+10.0pt;color:black'><o:p>&nbsp;</o:p></span></font></p>
+
+<p class=3DMsoNormal><font size=3D2 color=3Dblack face=3DArial><span style=
+=3D'font-size:
+10.0pt;color:black'>Peter <o:p></o:p></span></font></p>
+
+<p class=3DMsoNormal><font size=3D2 face=3DArial><span style=3D'font-size:1=
+0.0pt'><o:p>&nbsp;</o:p></span></font></p>
+
+<p class=3DMsoNormal><font size=3D2 face=3DArial><span style=3D'font-size:1=
+0.0pt'><o:p>&nbsp;</o:p></span></font></p>
+
+<p class=3DMsoNormal><font size=3D2 face=3DArial><span style=3D'font-size:1=
+0.0pt'><o:p>&nbsp;</o:p></span></font></p>
+
+<p class=3DMsoNormal><span class=3Dheading3char><b><font size=3D2 color=3D"=
+#00559b"
+face=3D"Trebuchet MS"><span style=3D'font-size:10.0pt;font-family:"Trebuche=
+t MS";
+color:#00559B;font-weight:bold'>Peter Olding</span></font></b></span><b><fo=
+nt
+color=3D"#00559b" face=3D"Trebuchet MS"><span style=3D'font-family:"Trebuch=
+et MS";
+color:#00559B;font-weight:bold'><br>
+<span class=3Dheading3char>Business Developer (Web / GIS)</span><br>
+</span></font></b><font color=3D"#00559b" face=3D"Trebuchet MS"><span
+style=3D'font-family:"Trebuchet MS";color:#00559B'>ICT Operations<br>
+<br>
+Telephone: <strong><b><font face=3D"Trebuchet MS"><span style=3D'font-famil=
+y:"Trebuchet MS"'>01202
+943413</span></font></b></strong><b><span style=3D'font-weight:bold'><br>
+</span></b>Email: <span class=3Dheading3char><b><span style=3D'font-weight:=
+bold'><a
+href=3D"mailto:peter...@mouchel.com">peter...@mouchel.com</a></span></b></s=
+pan><b><span
+style=3D'font-weight:bold'><br>
+<strong><b><font face=3D"Trebuchet MS"><span style=3D'font-family:"Trebuche=
+t MS"'>VISIT
+OUR WEBSITE:</span></font></b></strong></span></b> </span></font><a
+href=3D"http://www.bournemouth.gov.uk/"><font face=3D"Trebuchet MS"><span
+style=3D'font-family:"Trebuchet MS"'>www.bournemouth.gov.uk</span></font></=
+a><br>
+<br>
+<font color=3D"#00559b" face=3D"Trebuchet MS"><span style=3D'font-family:"T=
+rebuchet MS";
+color:#00559B'>Working in partnership with Mouchel</span></font><o:p></o:p>=
+</p>
+
+<p class=3DMsoNormal><font size=3D2 face=3DArial><span style=3D'font-size:1=
+0.0pt'><o:p>&nbsp;</o:p></span></font></p>
+
+</div>
+
+<p>**********************************************************************<b=
+r />This email and any files transmitted with it are confidential and<br />=
+intended solely for the use of the individual or entity to whom they<br />a=
+re addressed. If you have received this email in error please notify<br />t=
+he system manager.</p><p>This footnote also confirms that this email messag=
+e has been checked </p><p>for the presence of computer viruses.</p><p><br /=
+>**********************************************************************</p>
+</body>
+
+</html>
+
+------_=_NextPart_001_01CDEE55.F758FEEA--

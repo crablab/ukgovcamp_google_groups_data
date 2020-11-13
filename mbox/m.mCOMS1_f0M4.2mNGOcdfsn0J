@@ -1,0 +1,801 @@
+X-Received: by 10.180.24.130 with SMTP id u2mr3372971wif.6.1357656080422;
+        Tue, 08 Jan 2013 06:41:20 -0800 (PST)
+X-BeenThere: ukg...@googlegroups.com
+Received: by 10.180.95.225 with SMTP id dn1ls1425495wib.7.canary; Tue, 08 Jan
+ 2013 06:41:19 -0800 (PST)
+X-Received: by 10.180.94.8 with SMTP id cy8mr3370071wib.1.1357656079414;
+        Tue, 08 Jan 2013 06:41:19 -0800 (PST)
+X-Received: by 10.180.94.8 with SMTP id cy8mr3370070wib.1.1357656079393;
+        Tue, 08 Jan 2013 06:41:19 -0800 (PST)
+Return-Path: <Pete....@bournemouth.gov.uk>
+Received: from mail10.bournemouth.gov.uk (mailhost.bournemouth.gov.uk. [213.123.37.2])
+        by gmr-mx.google.com with ESMTP id d1si242280wie.0.2013.01.08.06.41.18;
+        Tue, 08 Jan 2013 06:41:19 -0800 (PST)
+Received-SPF: pass (google.com: best guess record for domain of Pete....@bournemouth.gov.uk designates 213.123.37.2 as permitted sender) client-ip=213.123.37.2;
+Authentication-Results: gmr-mx.google.com;
+       spf=pass (google.com: best guess record for domain of Pete....@bournemouth.gov.uk designates 213.123.37.2 as permitted sender) smtp.mail=Pete....@bournemouth.gov.uk
+Received: from mailconnector.bbc-cs.bbc.net ([10.10.100.162]) by 
+    mail10.bournemouth.gov.uk (8.14.1/8.14.1) with ESMTP id 
+    r08EfCEj019473 for <ukg...@googlegroups.com>; Tue, 8 Jan 2013 
+    14:41:12 GMT
+Received: from MAILSERVER.bbc-cs.bbc.net ([10.10.100.163]) by 
+    mailconnector.bbc-cs.bbc.net with Microsoft SMTPSVC(6.0.3790.4675); 
+    Tue, 8 Jan 2013 14:41:12 +0000
+X-MimeOLE: Produced By Microsoft Exchange V6.5
+Content-class: urn:content-classes:message
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+    boundary="----_=_NextPart_001_01CDEDAE.342B1E6A"
+Disposition-Notification-To: "Pete Olding" <Pete....@Bournemouth.gov.uk>
+Subject: RE: [ukgc13:42] Re: So what *can* we measure? What does meaningful
+ digital evaluation look like?
+Date: Tue, 8 Jan 2013 14:41:11 -0000
+Message-ID: <7071EEEF6FB5B74A8CED3C1CDE7942D209FE969B@MAILSERVER.bbc-cs.bbc.net>
+In-Reply-To: <6223bda6-032d-46c7-aebb-4458b6dead51@googlegroups.com>
+X-MS-Has-Attach: 
+X-MS-TNEF-Correlator: 
+Thread-Topic: [ukgc13:42] Re: So what *can* we measure? What does meaningful 
+    digital evaluation look like?
+Thread-Index: Ac3tAG5Leo4QXdduTciL1953ihMLngArLJFg
+References: <ee2ddffe-2640-4ab0-a379-cc6f1e960050@googlegroups.com> 
+    <9d03f1d1-f061-4b11-8671-4fe94ded36cf@googlegroups.com> 
+    <6223bda6-032d-46c7-aebb-4458b6dead51@googlegroups.com>
+From: "Pete Olding" <Pete....@Bournemouth.gov.uk>
+To: <ukg...@googlegroups.com>
+X-OriginalArrivalTime: 08 Jan 2013 14:41:12.0180 (UTC) 
+    FILETIME=[3456AB40:01CDEDAE]
+
+------_=_NextPart_001_01CDEDAE.342B1E6A
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+I don't think Likes is a good way of measuring Facebook. Wasn't there
+some stats produced a while back stating that 80% of Likes on a
+companies Facebook page were by people who only visited that companies
+facebook page once..=20
+
+=20
+
+Peter
+
+=20
+
+________________________________
+
+From: ukg...@googlegroups.com [mailto:ukg...@googlegroups.com] On Behalf
+Of Mark Braggins
+Sent: 07 January 2013 17:57
+To: ukg...@googlegroups.com
+Subject: [ukgc13:42] Re: So what *can* we measure? What does meaningful
+digital evaluation look like?
+
+=20
+
+BTW I updated this list a bit and blogged it at:
+http://markbraggins.com/getting-the-measure-of-social-media/
+
+On Friday, January 4, 2013 5:59:37 PM UTC, Mark Braggins wrote:
+
+Here's a quick effort at a listing some of the stuff that might be
+measurable for the 'bigger' platforms / products. Totally unscientific
+and quite probably wrong
+
+ =20
+
+Platform / type
+
+Measurable (probably)
+
+Additional indicators
+
+Twitter
+
+Followers, re-tweets, mentions
+
+Sentiment, specific feedback, requests
+
+Facebook
+
+Likes, followers
+
+Comments, requests
+
+You Tube
+
+Likes, views, shares
+
+Comments
+
+Pinterest
+
+Followers, repins, likes
+
+Comments
+
+Google+
+
++1's, Shares
+
+Comments
+
+Search
+
+Mentions
+
+How the search is phrased
+
+Web site
+
+Visits, views, likes
+
+Comments
+
+Flickr
+
+Views, favourites
+
+Comments
+
+Blogs
+
+Mentions, pingbacks
+
+Comments
+
+Open Data
+
+Downloads, views
+
+Re-use, apps developed (and their popularity)
+
+
+On Monday, December 31, 2012 12:31:28 PM UTC, Steph Gray wrote:
+
+Emer Coleman of GDS wrote an interesting piece about the trickiness of
+social media measurement
+<http://digital.cabinetoffice.gov.uk/2012/11/21/social-media-must-we-mea
+sure/>  in the public sector, and the ensuing discussion was quite
+interesting too.
+
+=20
+
+We've also recently seen public sector (only) folk get together to
+discuss strategies for digital analytics at AnalyticsCamp.
+
+=20
+
+To mix metaphors, I'd be interested to kick this hoary old chestnut
+around again and see if we can come to some conclusions about how goals,
+measurement, evaluation and benefit intertwine and whether there are
+some common lessons we can extract from different people's experiences.
+
+=20
+
+I don't have a huge amount to say myself - who's got something they'd
+like to share?
+
+--=20
+You received this message because you are subscribed to the Google
+Groups "#ukgc13 United Kingdom Government Camp 2013" group.
+To post to this group, send an email to ukg...@googlegroups.com.
+To unsubscribe from this group, send email to
+ukg...@googlegroups.com.
+For more options, visit https://groups.google.com/groups/opt_out.
+=20
+=20
+
+______________________________________________________________________
+This email has been scanned by the Symantec Email Security.cloud
+service.
+For more information please visit http://www.symanteccloud.com
+______________________________________________________________________
+
+
+**********************************************************************
+This email and any files transmitted with it are confidential and
+intended solely for the use of the individual or entity to whom they
+are addressed. If you have received this email in error please notify
+the system manager.
+
+This footnote also confirms that this email message has been checked=20
+for the presence of computer viruses.
+
+**********************************************************************
+
+------_=_NextPart_001_01CDEDAE.342B1E6A
+Content-Type: text/html; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" xmlns:o=3D"urn:schemas-micr=
+osoft-com:office:office" xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns=3D"http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=3DContent-Type content=3D"text/html; charset=3Dus-ascii">
+<meta name=3DGenerator content=3D"Microsoft Word 11 (filtered medium)">
+<!--[if !mso]>
+<style>
+v\:* {behavior:url(#default#VML);}
+o\:* {behavior:url(#default#VML);}
+w\:* {behavior:url(#default#VML);}
+.shape {behavior:url(#default#VML);}
+</style>
+<![endif]-->
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+=09{font-family:Tahoma;
+=09panose-1:2 11 6 4 3 5 4 4 2 4;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+=09{margin:0cm;
+=09margin-bottom:.0001pt;
+=09font-size:12.0pt;
+=09font-family:"Times New Roman";}
+a:link, span.MsoHyperlink
+=09{color:blue;
+=09text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+=09{color:blue;
+=09text-decoration:underline;}
+p
+=09{mso-margin-top-alt:auto;
+=09margin-right:0cm;
+=09mso-margin-bottom-alt:auto;
+=09margin-left:0cm;
+=09font-size:12.0pt;
+=09font-family:"Times New Roman";}
+span.EmailStyle18
+=09{mso-style-type:personal-reply;
+=09font-family:Arial;
+=09color:navy;}
+@page Section1
+=09{size:595.3pt 841.9pt;
+=09margin:72.0pt 90.0pt 72.0pt 90.0pt;}
+div.Section1
+=09{page:Section1;}
+-->
+</style>
+<!--[if gte mso 9]><xml>
+ <o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <o:shapelayout v:ext=3D"edit">
+  <o:idmap v:ext=3D"edit" data=3D"1" />
+ </o:shapelayout></xml><![endif]-->
+</head>
+
+<body lang=3DEN-GB link=3Dblue vlink=3Dblue>
+
+<div class=3DSection1>
+
+<p class=3DMsoNormal><font size=3D2 color=3Dnavy face=3DArial><span style=
+=3D'font-size:
+10.0pt;font-family:Arial;color:navy'>I don&#8217;t think Likes is a good wa=
+y of
+measuring Facebook. Wasn&#8217;t there some stats produced a while back sta=
+ting
+that 80% of Likes on a companies Facebook page were by people who only visi=
+ted that
+companies facebook page once.. <o:p></o:p></span></font></p>
+
+<p class=3DMsoNormal><font size=3D2 color=3Dnavy face=3DArial><span style=
+=3D'font-size:
+10.0pt;font-family:Arial;color:navy'><o:p>&nbsp;</o:p></span></font></p>
+
+<p class=3DMsoNormal><font size=3D2 color=3Dnavy face=3DArial><span style=
+=3D'font-size:
+10.0pt;font-family:Arial;color:navy'>Peter<o:p></o:p></span></font></p>
+
+<p class=3DMsoNormal><font size=3D2 color=3Dnavy face=3DArial><span style=
+=3D'font-size:
+10.0pt;font-family:Arial;color:navy'><o:p>&nbsp;</o:p></span></font></p>
+
+<div>
+
+<div class=3DMsoNormal align=3Dcenter style=3D'text-align:center'><font siz=
+e=3D3
+face=3D"Times New Roman"><span lang=3DEN-US style=3D'font-size:12.0pt'>
+
+<hr size=3D2 width=3D"100%" align=3Dcenter tabindex=3D-1>
+
+</span></font></div>
+
+<p class=3DMsoNormal><b><font size=3D2 face=3DTahoma><span lang=3DEN-US
+style=3D'font-size:10.0pt;font-family:Tahoma;font-weight:bold'>From:</span>=
+</font></b><font
+size=3D2 face=3DTahoma><span lang=3DEN-US style=3D'font-size:10.0pt;font-fa=
+mily:Tahoma'>
+ukg...@googlegroups.com [mailto:ukg...@googlegroups.com] <b><span
+style=3D'font-weight:bold'>On Behalf Of </span></b>Mark Braggins<br>
+<b><span style=3D'font-weight:bold'>Sent:</span></b> 07 January 2013 17:57<=
+br>
+<b><span style=3D'font-weight:bold'>To:</span></b> ukg...@googlegroups.com<=
+br>
+<b><span style=3D'font-weight:bold'>Subject:</span></b> [ukgc13:42] Re: So =
+what
+*can* we measure? What does meaningful digital evaluation look like?</span>=
+</font><span
+lang=3DEN-US><o:p></o:p></span></p>
+
+</div>
+
+<p class=3DMsoNormal><font size=3D3 face=3D"Times New Roman"><span style=3D=
+'font-size:
+12.0pt'><o:p>&nbsp;</o:p></span></font></p>
+
+<p class=3DMsoNormal><font size=3D3 face=3D"Times New Roman"><span style=3D=
+'font-size:
+12.0pt'>BTW I updated this list a bit and blogged it
+at:&nbsp;http://markbraggins.com/getting-the-measure-of-social-media/<br>
+<br>
+On Friday, January 4, 2013 5:59:37 PM UTC, Mark Braggins wrote:<o:p></o:p><=
+/span></font></p>
+
+<p class=3DMsoNormal><font size=3D3 face=3D"Times New Roman"><span style=3D=
+'font-size:
+12.0pt'>Here's a quick effort at a listing some of the stuff that might be
+measurable for the 'bigger' platforms / products. Totally unscientific and
+quite probably wrong<o:p></o:p></span></font></p>
+
+<div>
+
+<p class=3DMsoNormal><font size=3D3 face=3D"Times New Roman"><span style=3D=
+'font-size:
+12.0pt'>&nbsp; <o:p></o:p></span></font></p>
+
+<table class=3DMsoNormalTable border=3D0 cellspacing=3D0 cellpadding=3D0
+ style=3D'border-collapse:collapse'>
+ <tr>
+  <td width=3D189 valign=3Dtop style=3D'width:141.9pt;border:solid windowte=
+xt 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=3DMsoNormal style=3D'mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto'><font
+  size=3D3 face=3D"Times New Roman"><span lang=3DEN-US style=3D'font-size:1=
+2.0pt'>Platform
+  / type</span><o:p></o:p></font></p>
+  </td>
+  <td width=3D189 valign=3Dtop style=3D'width:141.95pt;border:solid windowt=
+ext 1.0pt;
+  border-left:none;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=3DMsoNormal style=3D'mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto'><font
+  size=3D3 face=3D"Times New Roman"><span lang=3DEN-US style=3D'font-size:1=
+2.0pt'>Measurable
+  (probably)</span><o:p></o:p></font></p>
+  </td>
+  <td width=3D189 valign=3Dtop style=3D'width:141.95pt;border:solid windowt=
+ext 1.0pt;
+  border-left:none;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=3DMsoNormal style=3D'mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto'><font
+  size=3D3 face=3D"Times New Roman"><span lang=3DEN-US style=3D'font-size:1=
+2.0pt'>Additional
+  indicators</span><o:p></o:p></font></p>
+  </td>
+ </tr>
+ <tr>
+  <td width=3D189 valign=3Dtop style=3D'width:141.9pt;border:solid windowte=
+xt 1.0pt;
+  border-top:none;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=3DMsoNormal style=3D'mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto'><font
+  size=3D3 face=3D"Times New Roman"><span lang=3DEN-US style=3D'font-size:1=
+2.0pt'>Twitter</span><o:p></o:p></font></p>
+  </td>
+  <td width=3D189 valign=3Dtop style=3D'width:141.95pt;border-top:none;bord=
+er-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1=
+.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=3DMsoNormal style=3D'mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto'><font
+  size=3D3 face=3D"Times New Roman"><span lang=3DEN-US style=3D'font-size:1=
+2.0pt'>Followers,
+  re-tweets, mentions</span><o:p></o:p></font></p>
+  </td>
+  <td width=3D189 valign=3Dtop style=3D'width:141.95pt;border-top:none;bord=
+er-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1=
+.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=3DMsoNormal style=3D'mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto'><font
+  size=3D3 face=3D"Times New Roman"><span lang=3DEN-US style=3D'font-size:1=
+2.0pt'>Sentiment,
+  specific feedback, requests</span><o:p></o:p></font></p>
+  </td>
+ </tr>
+ <tr>
+  <td width=3D189 valign=3Dtop style=3D'width:141.9pt;border:solid windowte=
+xt 1.0pt;
+  border-top:none;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=3DMsoNormal style=3D'mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto'><font
+  size=3D3 face=3D"Times New Roman"><span lang=3DEN-US style=3D'font-size:1=
+2.0pt'>Facebook</span><o:p></o:p></font></p>
+  </td>
+  <td width=3D189 valign=3Dtop style=3D'width:141.95pt;border-top:none;bord=
+er-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1=
+.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=3DMsoNormal style=3D'mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto'><font
+  size=3D3 face=3D"Times New Roman"><span lang=3DEN-US style=3D'font-size:1=
+2.0pt'>Likes,
+  followers</span><o:p></o:p></font></p>
+  </td>
+  <td width=3D189 valign=3Dtop style=3D'width:141.95pt;border-top:none;bord=
+er-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1=
+.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=3DMsoNormal style=3D'mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto'><font
+  size=3D3 face=3D"Times New Roman"><span lang=3DEN-US style=3D'font-size:1=
+2.0pt'>Comments,
+  requests</span><o:p></o:p></font></p>
+  </td>
+ </tr>
+ <tr>
+  <td width=3D189 valign=3Dtop style=3D'width:141.9pt;border:solid windowte=
+xt 1.0pt;
+  border-top:none;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=3DMsoNormal style=3D'mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto'><font
+  size=3D3 face=3D"Times New Roman"><span lang=3DEN-US style=3D'font-size:1=
+2.0pt'>You
+  Tube</span><o:p></o:p></font></p>
+  </td>
+  <td width=3D189 valign=3Dtop style=3D'width:141.95pt;border-top:none;bord=
+er-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1=
+.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=3DMsoNormal style=3D'mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto'><font
+  size=3D3 face=3D"Times New Roman"><span lang=3DEN-US style=3D'font-size:1=
+2.0pt'>Likes,
+  views, shares</span><o:p></o:p></font></p>
+  </td>
+  <td width=3D189 valign=3Dtop style=3D'width:141.95pt;border-top:none;bord=
+er-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1=
+.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=3DMsoNormal style=3D'mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto'><font
+  size=3D3 face=3D"Times New Roman"><span lang=3DEN-US style=3D'font-size:1=
+2.0pt'>Comments</span><o:p></o:p></font></p>
+  </td>
+ </tr>
+ <tr>
+  <td width=3D189 valign=3Dtop style=3D'width:141.9pt;border:solid windowte=
+xt 1.0pt;
+  border-top:none;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=3DMsoNormal style=3D'mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto'><font
+  size=3D3 face=3D"Times New Roman"><span lang=3DEN-US style=3D'font-size:1=
+2.0pt'>Pinterest</span><o:p></o:p></font></p>
+  </td>
+  <td width=3D189 valign=3Dtop style=3D'width:141.95pt;border-top:none;bord=
+er-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1=
+.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=3DMsoNormal style=3D'mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto'><font
+  size=3D3 face=3D"Times New Roman"><span lang=3DEN-US style=3D'font-size:1=
+2.0pt'>Followers,
+  repins, likes</span><o:p></o:p></font></p>
+  </td>
+  <td width=3D189 valign=3Dtop style=3D'width:141.95pt;border-top:none;bord=
+er-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1=
+.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=3DMsoNormal style=3D'mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto'><font
+  size=3D3 face=3D"Times New Roman"><span lang=3DEN-US style=3D'font-size:1=
+2.0pt'>Comments</span><o:p></o:p></font></p>
+  </td>
+ </tr>
+ <tr>
+  <td width=3D189 valign=3Dtop style=3D'width:141.9pt;border:solid windowte=
+xt 1.0pt;
+  border-top:none;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=3DMsoNormal style=3D'mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto'><font
+  size=3D3 face=3D"Times New Roman"><span lang=3DEN-US style=3D'font-size:1=
+2.0pt'>Google+</span><o:p></o:p></font></p>
+  </td>
+  <td width=3D189 valign=3Dtop style=3D'width:141.95pt;border-top:none;bord=
+er-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1=
+.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=3DMsoNormal style=3D'mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto'><font
+  size=3D3 face=3D"Times New Roman"><span lang=3DEN-US style=3D'font-size:1=
+2.0pt'>+1&#8217;s,
+  Shares</span><o:p></o:p></font></p>
+  </td>
+  <td width=3D189 valign=3Dtop style=3D'width:141.95pt;border-top:none;bord=
+er-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1=
+.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=3DMsoNormal style=3D'mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto'><font
+  size=3D3 face=3D"Times New Roman"><span lang=3DEN-US style=3D'font-size:1=
+2.0pt'>Comments</span><o:p></o:p></font></p>
+  </td>
+ </tr>
+ <tr>
+  <td width=3D189 valign=3Dtop style=3D'width:141.9pt;border:solid windowte=
+xt 1.0pt;
+  border-top:none;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=3DMsoNormal style=3D'mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto'><font
+  size=3D3 face=3D"Times New Roman"><span lang=3DEN-US style=3D'font-size:1=
+2.0pt'>Search</span><o:p></o:p></font></p>
+  </td>
+  <td width=3D189 valign=3Dtop style=3D'width:141.95pt;border-top:none;bord=
+er-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1=
+.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=3DMsoNormal style=3D'mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto'><font
+  size=3D3 face=3D"Times New Roman"><span lang=3DEN-US style=3D'font-size:1=
+2.0pt'>Mentions</span><o:p></o:p></font></p>
+  </td>
+  <td width=3D189 valign=3Dtop style=3D'width:141.95pt;border-top:none;bord=
+er-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1=
+.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=3DMsoNormal style=3D'mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto'><font
+  size=3D3 face=3D"Times New Roman"><span lang=3DEN-US style=3D'font-size:1=
+2.0pt'>How
+  the search is phrased</span><o:p></o:p></font></p>
+  </td>
+ </tr>
+ <tr>
+  <td width=3D189 valign=3Dtop style=3D'width:141.9pt;border:solid windowte=
+xt 1.0pt;
+  border-top:none;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=3DMsoNormal style=3D'mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto'><font
+  size=3D3 face=3D"Times New Roman"><span lang=3DEN-US style=3D'font-size:1=
+2.0pt'>Web
+  site</span><o:p></o:p></font></p>
+  </td>
+  <td width=3D189 valign=3Dtop style=3D'width:141.95pt;border-top:none;bord=
+er-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1=
+.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=3DMsoNormal style=3D'mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto'><font
+  size=3D3 face=3D"Times New Roman"><span lang=3DEN-US style=3D'font-size:1=
+2.0pt'>Visits,
+  views, likes</span><o:p></o:p></font></p>
+  </td>
+  <td width=3D189 valign=3Dtop style=3D'width:141.95pt;border-top:none;bord=
+er-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1=
+.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=3DMsoNormal style=3D'mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto'><font
+  size=3D3 face=3D"Times New Roman"><span lang=3DEN-US style=3D'font-size:1=
+2.0pt'>Comments</span><o:p></o:p></font></p>
+  </td>
+ </tr>
+ <tr>
+  <td width=3D189 valign=3Dtop style=3D'width:141.9pt;border:solid windowte=
+xt 1.0pt;
+  border-top:none;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=3DMsoNormal style=3D'mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto'><font
+  size=3D3 face=3D"Times New Roman"><span lang=3DEN-US style=3D'font-size:1=
+2.0pt'>Flickr</span><o:p></o:p></font></p>
+  </td>
+  <td width=3D189 valign=3Dtop style=3D'width:141.95pt;border-top:none;bord=
+er-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1=
+.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=3DMsoNormal style=3D'mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto'><font
+  size=3D3 face=3D"Times New Roman"><span lang=3DEN-US style=3D'font-size:1=
+2.0pt'>Views,
+  favourites</span><o:p></o:p></font></p>
+  </td>
+  <td width=3D189 valign=3Dtop style=3D'width:141.95pt;border-top:none;bord=
+er-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1=
+.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=3DMsoNormal style=3D'mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto'><font
+  size=3D3 face=3D"Times New Roman"><span lang=3DEN-US style=3D'font-size:1=
+2.0pt'>Comments</span><o:p></o:p></font></p>
+  </td>
+ </tr>
+ <tr>
+  <td width=3D189 valign=3Dtop style=3D'width:141.9pt;border:solid windowte=
+xt 1.0pt;
+  border-top:none;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=3DMsoNormal style=3D'mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto'><font
+  size=3D3 face=3D"Times New Roman"><span lang=3DEN-US style=3D'font-size:1=
+2.0pt'>Blogs</span><o:p></o:p></font></p>
+  </td>
+  <td width=3D189 valign=3Dtop style=3D'width:141.95pt;border-top:none;bord=
+er-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1=
+.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=3DMsoNormal style=3D'mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto'><font
+  size=3D3 face=3D"Times New Roman"><span lang=3DEN-US style=3D'font-size:1=
+2.0pt'>Mentions,
+  pingbacks</span><o:p></o:p></font></p>
+  </td>
+  <td width=3D189 valign=3Dtop style=3D'width:141.95pt;border-top:none;bord=
+er-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1=
+.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=3DMsoNormal style=3D'mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto'><font
+  size=3D3 face=3D"Times New Roman"><span lang=3DEN-US style=3D'font-size:1=
+2.0pt'>Comments</span><o:p></o:p></font></p>
+  </td>
+ </tr>
+ <tr>
+  <td width=3D189 valign=3Dtop style=3D'width:141.9pt;border:solid windowte=
+xt 1.0pt;
+  border-top:none;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=3DMsoNormal style=3D'mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto'><font
+  size=3D3 face=3D"Times New Roman"><span lang=3DEN-US style=3D'font-size:1=
+2.0pt'>Open
+  Data</span><o:p></o:p></font></p>
+  </td>
+  <td width=3D189 valign=3Dtop style=3D'width:141.95pt;border-top:none;bord=
+er-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1=
+.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=3DMsoNormal style=3D'mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto'><font
+  size=3D3 face=3D"Times New Roman"><span lang=3DEN-US style=3D'font-size:1=
+2.0pt'>Downloads,
+  views</span><o:p></o:p></font></p>
+  </td>
+  <td width=3D189 valign=3Dtop style=3D'width:141.95pt;border-top:none;bord=
+er-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1=
+.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=3DMsoNormal style=3D'mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto'><font
+  size=3D3 face=3D"Times New Roman"><span lang=3DEN-US style=3D'font-size:1=
+2.0pt'>Re-use,
+  apps developed (and their popularity)</span><o:p></o:p></font></p>
+  </td>
+ </tr>
+</table>
+
+<p class=3DMsoNormal><font size=3D3 face=3D"Times New Roman"><span style=3D=
+'font-size:
+12.0pt'><br>
+On Monday, December 31, 2012 12:31:28 PM UTC, Steph Gray wrote:<o:p></o:p><=
+/span></font></p>
+
+<p class=3DMsoNormal><font size=3D3 face=3D"Times New Roman"><span style=3D=
+'font-size:
+12.0pt'>Emer Coleman of GDS wrote <a
+href=3D"http://digital.cabinetoffice.gov.uk/2012/11/21/social-media-must-we=
+-measure/"
+target=3D"_blank">an interesting piece about the trickiness of social media
+measurement</a> in the public sector, and the ensuing discussion was quite
+interesting too.<o:p></o:p></span></font></p>
+
+<div>
+
+<p class=3DMsoNormal><font size=3D3 face=3D"Times New Roman"><span style=3D=
+'font-size:
+12.0pt'><o:p>&nbsp;</o:p></span></font></p>
+
+</div>
+
+<div>
+
+<p class=3DMsoNormal><font size=3D3 face=3D"Times New Roman"><span style=3D=
+'font-size:
+12.0pt'>We've also recently seen public sector (only) folk get together to
+discuss strategies for digital analytics at AnalyticsCamp.<o:p></o:p></span=
+></font></p>
+
+</div>
+
+<div>
+
+<p class=3DMsoNormal><font size=3D3 face=3D"Times New Roman"><span style=3D=
+'font-size:
+12.0pt'><o:p>&nbsp;</o:p></span></font></p>
+
+</div>
+
+<div>
+
+<p class=3DMsoNormal><font size=3D3 face=3D"Times New Roman"><span style=3D=
+'font-size:
+12.0pt'>To mix metaphors, I'd be interested to kick this hoary old chestnut
+around again and see if we can come to some conclusions about how goals,
+measurement, evaluation and benefit intertwine and whether there are some
+common lessons we can extract from different people's experiences.<o:p></o:=
+p></span></font></p>
+
+</div>
+
+<div>
+
+<p class=3DMsoNormal><font size=3D3 face=3D"Times New Roman"><span style=3D=
+'font-size:
+12.0pt'><o:p>&nbsp;</o:p></span></font></p>
+
+</div>
+
+<div>
+
+<p class=3DMsoNormal><font size=3D3 face=3D"Times New Roman"><span style=3D=
+'font-size:
+12.0pt'>I don't have a huge amount to say myself - who's got something they=
+'d
+like to share?<o:p></o:p></span></font></p>
+
+</div>
+
+</div>
+
+<p class=3DMsoNormal><font size=3D3 face=3D"Times New Roman"><span style=3D=
+'font-size:
+12.0pt'>-- <br>
+You received this message because you are subscribed to the Google Groups
+&quot;#ukgc13 United Kingdom Government Camp 2013&quot; group.<br>
+To post to this group, send an email to ukg...@googlegroups.com.<br>
+To unsubscribe from this group, send email to ukg...@googlegroups.com.<br>
+For more options, visit <a href=3D"https://groups.google.com/groups/opt_out=
+">https://groups.google.com/groups/opt_out</a>.<br>
+&nbsp;<br>
+&nbsp;<br>
+<br>
+______________________________________________________________________<br>
+This email has been scanned by the Symantec Email Security.cloud service.<b=
+r>
+For more information please visit http://www.symanteccloud.com<br>
+______________________________________________________________________<o:p>=
+</o:p></span></font></p>
+
+</div>
+
+<p>**********************************************************************<b=
+r />This email and any files transmitted with it are confidential and<br />=
+intended solely for the use of the individual or entity to whom they<br />a=
+re addressed. If you have received this email in error please notify<br />t=
+he system manager.</p><p>This footnote also confirms that this email messag=
+e has been checked </p><p>for the presence of computer viruses.</p><p><br /=
+>**********************************************************************</p>
+</body>
+
+</html>
+
+------_=_NextPart_001_01CDEDAE.342B1E6A--

@@ -1,0 +1,82 @@
+X-Received: by 10.180.80.33 with SMTP id o1mr3838571wix.0.1378742445740;
+        Mon, 09 Sep 2013 09:00:45 -0700 (PDT)
+X-BeenThere: ukg...@googlegroups.com
+Received: by 10.180.189.102 with SMTP id gh6ls702136wic.15.canary; Mon, 09 Sep
+ 2013 09:00:45 -0700 (PDT)
+X-Received: by 10.180.189.137 with SMTP id gi9mr3572972wic.1.1378742445125;
+        Mon, 09 Sep 2013 09:00:45 -0700 (PDT)
+Return-Path: <j...@foster.li>
+Received: from mail-wi0-x230.google.com (mail-wi0-x230.google.com [2a00:1450:400c:c05::230])
+        by gmr-mx.google.com with ESMTPS id l5si418245wix.2.1969.12.31.16.00.00
+        (version=TLSv1 cipher=ECDHE-RSA-RC4-SHA bits=128/128);
+        Mon, 09 Sep 2013 09:00:44 -0700 (PDT)
+Received-SPF: neutral (google.com: 2a00:1450:400c:c05::230 is neither permitted nor denied by best guess record for domain of j...@foster.li) client-ip=2a00:1450:400c:c05::230;
+Authentication-Results: gmr-mx.google.com;
+       spf=neutral (google.com: 2a00:1450:400c:c05::230 is neither permitted nor denied by best guess record for domain of j...@foster.li) smtp.mail=j...@foster.li
+Received: by mail-wi0-x230.google.com with SMTP id cb5so3614222wib.15
+        for <ukg...@googlegroups.com>; Mon, 09 Sep 2013 09:00:44 -0700 (PDT)
+X-Gm-Message-State: ALoCoQkAB3zbwpbVrLRg3XwX7hgzgmZnCdN3BwK5jngtUkkme4cNVq4gNH/srJyd/GFsBAyklk6j
+MIME-Version: 1.0
+X-Received: by 10.180.9.203 with SMTP id c11mr9085517wib.64.1378742444773;
+ Mon, 09 Sep 2013 09:00:44 -0700 (PDT)
+Received: by 10.216.173.8 with HTTP; Mon, 9 Sep 2013 09:00:44 -0700 (PDT)
+X-Originating-IP: [37.157.35.58]
+Date: Mon, 9 Sep 2013 17:00:44 +0100
+Message-ID: <CAOFTQj3VBtP3tmnr3LCKCOnP1p_uO8xK9SUd-t9Tpd7+ChQ+=w@mail.gmail.com>
+Subject: Public Service Launchpad
+From: Jon Foster <j...@foster.li>
+To: ukg...@googlegroups.com
+Cc: Lucy Watt <lu...@wearefuturegov.com>
+Content-Type: multipart/alternative; boundary=001a11c22634a866d004e5f57d89
+
+--001a11c22634a866d004e5f57d89
+Content-Type: text/plain; charset=ISO-8859-1
+
+Hello govcampers!
+Hope you're all well. Just a quick one to point you to the Public Service
+Launchpad <http://publicservice.hublaunchpad.net/> which FutureGov have
+just launched in partnership with Hub Launchpad (part of The Hub - them of
+co-working and what-not).
+
+They're looking for people inside the public sector (in it's broadest
+sense) with ideas for change initiatives or social ventures. More details
+here: http://publicservice.hublaunchpad.net/
+
+There's a launch on Thursday 19th:
+https://publicservicelaunchpadlaunch.eventbrite.com/
+
+Granted I'm a bit biased, but you should totally all get involved ;)
+
+Jon.
+
+*Jon Foster*
+j...@foster.li
+07835 722 377
+
+jon.foster.li
+
+--001a11c22634a866d004e5f57d89
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr">Hello govcampers!<br>Hope you&#39;re all well. Just a quic=
+k one to point you to the <a href=3D"http://publicservice.hublaunchpad.net/=
+">Public Service Launchpad</a> which FutureGov have just launched in partne=
+rship with Hub Launchpad (part of The Hub - them of co-working and what-not=
+).<div>
+<br></div><div>They&#39;re looking for people inside the public sector (in =
+it&#39;s broadest sense) with ideas for change initiatives or social ventur=
+es. More details here:=A0<a href=3D"http://publicservice.hublaunchpad.net/"=
+>http://publicservice.hublaunchpad.net/</a></div>
+<div><br></div><div>There&#39;s a launch on Thursday 19th:=A0<a href=3D"htt=
+ps://publicservicelaunchpadlaunch.eventbrite.com/">https://publicservicelau=
+nchpadlaunch.eventbrite.com/</a></div><div><br></div><div>Granted I&#39;m a=
+ bit biased, but you should totally all get involved ;)</div>
+<div><br></div><div>Jon.<br clear=3D"all"><div><br><div><b>Jon Foster</b></=
+div><div><a href=3D"mailto:j...@foster.li" target=3D"_blank">j...@foster.li=
+</a></div><div>07835 722 377</div><div><br></div><div><a href=3D"http://jon=
+.foster.li" target=3D"_blank">jon.foster.li</a></div>
+</div>
+</div></div>
+
+--001a11c22634a866d004e5f57d89--

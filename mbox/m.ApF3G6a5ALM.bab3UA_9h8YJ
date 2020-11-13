@@ -1,0 +1,40 @@
+Date: Tue, 6 Jan 2015 04:58:45 -0800 (PST)
+From: ddinsdale2000 <da...@clipzonk.com>
+Message-Id: <bf82356b-be53-4359-b934-9bda2e8a7f02@googlegroups.com>
+Subject: An introduction to GDS open-source - the GDS github structure for
+ Gov.UK and how to use it.
+MIME-Version: 1.0
+Content-Type: multipart/mixed; 
+	boundary="----=_Part_3790_845926863.1420549125510"
+
+------=_Part_3790_845926863.1420549125510
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_3791_1151043301.1420549125510"
+
+------=_Part_3791_1151043301.1420549125510
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+It would be great if someone from GDS could run a session on how GDS has 
+used github to publish the source code to Gov.UK and other developments.
+
+I have had a look but can't figure out the GDS structure at all, which 
+makes it tough to re-use the valuable code that has been published.  
+
+It would be helpful in designing services that link to Government for 
+example GovSpend.Org.UK which I develop.
+
+I saw some good people from GDS would be in attendance and thought this may 
+be of interest for people who are interested in developing add-ons to 
+Government services.
+
+
+
+------=_Part_3791_1151043301.1420549125510
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+<div dir="ltr"><div dir="ltr"><div dir="ltr"><div>It would be great if someone from GDS could run a session on how GDS has used github to publish the source code to Gov.UK and other developments.</div><div><br></div><div>I have had a look but can't figure out the GDS structure at all, which makes it tough to re-use the valuable code that has been published. &nbsp;</div><div><br></div><div>It would be helpful in designing services that link to Government for example <a href="http://GovSpend.Org.UK" target="_blank">GovSpend.Org.UK</a> which I develop.</div><div><br></div><div>I saw some good people from GDS would be in attendance and thought this may be of interest for people who are interested in developing add-ons to Government services.</div><div><br></div><div><br></div></div></div></div>
+------=_Part_3791_1151043301.1420549125510--
+
+------=_Part_3790_845926863.1420549125510--

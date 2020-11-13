@@ -1,0 +1,41 @@
+X-Received: by 10.182.18.3 with SMTP id s3mr15436684obd.42.1421479720321;
+        Fri, 16 Jan 2015 23:28:40 -0800 (PST)
+X-BeenThere: ukgovcamp@googlegroups.com
+Received: by 10.140.94.75 with SMTP id f69ls114052qge.56.gmail; Fri, 16 Jan
+ 2015 23:28:39 -0800 (PST)
+X-Received: by 10.140.93.9 with SMTP id c9mr290qge.39.1421479719747;
+        Fri, 16 Jan 2015 23:28:39 -0800 (PST)
+Date: Fri, 16 Jan 2015 23:28:39 -0800 (PST)
+From: Sweyn Hunter <sweyn...@gmail.com>
+To: ukgovcamp@googlegroups.com
+Message-Id: <37120abd-a4fa-4730-a599-dd18edea46b0@googlegroups.com>
+In-Reply-To: <56916b44-9dcb-4f6c-8f9a-4b94c4327ed8@googlegroups.com>
+References: <56916b44-9dcb-4f6c-8f9a-4b94c4327ed8@googlegroups.com>
+Subject: Re: An introduction to GDS open-source - the GDS github structure
+ for Gov.UK and how to use it.
+MIME-Version: 1.0
+Content-Type: multipart/mixed; 
+	boundary="----=_Part_1647_1204213401.1421479719372"
+
+------=_Part_1647_1204213401.1421479719372
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_1648_472231000.1421479719379"
+
+------=_Part_1648_472231000.1421479719379
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+This would be a good idea - I, too, have tried to understand how github 
+might be used to advantage (I admit, I am not much of a developer, and the 
+project I was interested in was nothing to do with work!), but have become 
+very confused! An example of how gds make it work for them (and of how we 
+others could  benefit from their efforts and experience) would be great.
+
+------=_Part_1648_472231000.1421479719379
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+<div dir="ltr">This would be a good idea - I, too, have tried to understand how github might be used to advantage (I admit, I am not much of a developer, and the project I was interested in was nothing to do with work!), but have become very confused! An example of how gds make it work for them (and of how we others could&nbsp; benefit from their efforts and experience) would be great.<br></div>
+------=_Part_1648_472231000.1421479719379--
+
+------=_Part_1647_1204213401.1421479719372--

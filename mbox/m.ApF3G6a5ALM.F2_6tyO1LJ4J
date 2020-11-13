@@ -1,0 +1,43 @@
+Date: Thu, 8 Jan 2015 10:53:54 -0800 (PST)
+From: ddinsdale2000 <da...@clipzonk.com>
+Message-Id: <6f99ef84-3c9e-472b-966c-377f9e398975@googlegroups.com>
+In-Reply-To: <<c5792cce-bd0a-487e-81d7-501eb910ba58@googlegroups.com>>
+References: <<56916b44-9dcb-4f6c-8f9a-4b94c4327ed8@googlegroups.com>>
+ <<c5792cce-bd0a-487e-81d7-501eb910ba58@googlegroups.com>>
+Subject: Re: An introduction to GDS open-source - the GDS github structure
+ for Gov.UK and how to use it.
+MIME-Version: 1.0
+Content-Type: multipart/mixed; 
+	boundary="----=_Part_11037_1003131015.1420743234890"
+
+------=_Part_11037_1003131015.1420743234890
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_11038_1999112537.1420743234890"
+
+------=_Part_11038_1999112537.1420743234890
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Thanks James, that article is helpful but doesn't quite cover the breadth 
+of the GDS GitHub.
+
+Looking at https://github.com/alphagov?page=1 there are over 300 individual 
+repositories.  Clearly govuk_frontend_toolkit is important but figuring out 
+how it all fits together is tough.
+
+A Gov.UK GitHub for Dummies would help.  This will become more important as 
+Government drives it's policy of providing APIs.  If having hundreds of 
+government web sites working differently was a bad idea that Gov.UK fixed, 
+then a next phase that proliferates a divergence from established best 
+practice is unlikely to help people.
+
+Maybe I'm the only one - UKGovCamp will be interesting on that point.
+
+------=_Part_11038_1999112537.1420743234890
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+<div dir="ltr"><div dir="ltr">Thanks James, that article is helpful but doesn't quite cover the breadth of the GDS GitHub.<div><br></div><div>Looking at&nbsp;<a href="https://github.com/alphagov?page=1" target="_blank">https://github.com/<wbr>alphagov?page=1</a> there are over 300 individual repositories. &nbsp;Clearly govuk_frontend_toolkit is important but figuring out how it all fits together is tough.</div><div><br></div><div>A Gov.UK GitHub for Dummies would help. &nbsp;This will become more important as Government drives it's policy of providing APIs. &nbsp;If having hundreds of government web sites working differently was a bad idea that Gov.UK fixed, then a next phase that proliferates a divergence from established best practice is unlikely to help people.</div><div><br></div><div>Maybe I'm the only one - UKGovCamp will be interesting on that point.</div></div></div>
+------=_Part_11038_1999112537.1420743234890--
+
+------=_Part_11037_1003131015.1420743234890--

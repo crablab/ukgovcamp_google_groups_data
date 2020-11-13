@@ -1,0 +1,75 @@
+X-Received: by 10.182.33.167 with SMTP id s7mr12997867obi.34.1420574216026;
+        Tue, 06 Jan 2015 11:56:56 -0800 (PST)
+X-BeenThere: ukgovcamp@googlegroups.com
+Received: by 10.50.110.10 with SMTP id hw10ls269890igb.29.gmail; Tue, 06 Jan
+ 2015 11:56:55 -0800 (PST)
+X-Received: by 10.51.16.226 with SMTP id fz2mr297049igd.16.1420574215746;
+        Tue, 06 Jan 2015 11:56:55 -0800 (PST)
+Date: Tue, 6 Jan 2015 11:56:55 -0800 (PST)
+From: James Cattell <ja...@cattell.com>
+To: ukgovcamp@googlegroups.com
+Message-Id: <c5792cce-bd0a-487e-81d7-501eb910ba58@googlegroups.com>
+In-Reply-To: <56916b44-9dcb-4f6c-8f9a-4b94c4327ed8@googlegroups.com>
+References: <56916b44-9dcb-4f6c-8f9a-4b94c4327ed8@googlegroups.com>
+Subject: Re: An introduction to GDS open-source - the GDS github structure
+ for Gov.UK and how to use it.
+MIME-Version: 1.0
+Content-Type: multipart/mixed; 
+	boundary="----=_Part_3521_457583724.1420574215026"
+
+------=_Part_3521_457583724.1420574215026
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_3522_470709361.1420574215026"
+
+------=_Part_3522_470709361.1420574215026
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Good idea David. Here is a blog post to help:
+https://gdstechnology.blog.gov.uk/2014/01/27/how-we-use-github/
+
+On Tuesday, 6 January 2015 12:54:48 UTC, ddinsdale2000 wrote:
+>
+> It would be great if someone from GDS could run a session on how GDS has 
+> used github to publish the source code to Gov.UK and other developments.
+>
+> I have had a look but can't figure out the GDS structure at all, which 
+> makes it tough to re-use the valuable code that has been published.  
+>
+> It would be helpful in designing services that link to Government for 
+> example GovSpend.Org.UK which I develop.
+>
+> I saw some good people from GDS would be in attendance and thought this 
+> may be of interest for people who are interested in developing add-ons to 
+> Government services.
+>
+>
+>
+------=_Part_3522_470709361.1420574215026
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr">Good idea David. Here is a blog post to help:<div><a href=
+=3D"https://gdstechnology.blog.gov.uk/2014/01/27/how-we-use-github/">https:=
+//gdstechnology.blog.gov.uk/2014/01/27/how-we-use-github/</a><br><br>On Tue=
+sday, 6 January 2015 12:54:48 UTC, ddinsdale2000  wrote:<blockquote class=
+=3D"gmail_quote" style=3D"margin: 0;margin-left: 0.8ex;border-left: 1px #cc=
+c solid;padding-left: 1ex;"><div dir=3D"ltr"><div dir=3D"ltr"><div dir=3D"l=
+tr"><div>It would be great if someone from GDS could run a session on how G=
+DS has used github to publish the source code to Gov.UK and other developme=
+nts.</div><div><br></div><div>I have had a look but can't figure out the GD=
+S structure at all, which makes it tough to re-use the valuable code that h=
+as been published. &nbsp;</div><div><br></div><div>It would be helpful in d=
+esigning services that link to Government for example <a href=3D"http://Gov=
+Spend.Org.UK" target=3D"_blank" onmousedown=3D"this.href=3D'http://www.goog=
+le.com/url?q\75http%3A%2F%2FGovSpend.Org.UK\46sa\75D\46sntz\0751\46usg\75AF=
+QjCNFxZEvmPRNtnENRVh47GZeWe80rbQ';return true;" onclick=3D"this.href=3D'htt=
+p://www.google.com/url?q\75http%3A%2F%2FGovSpend.Org.UK\46sa\75D\46sntz\075=
+1\46usg\75AFQjCNFxZEvmPRNtnENRVh47GZeWe80rbQ';return true;">GovSpend.Org.UK=
+</a> which I develop.</div><div><br></div><div>I saw some good people from =
+GDS would be in attendance and thought this may be of interest for people w=
+ho are interested in developing add-ons to Government services.</div><div><=
+br></div><div><br></div></div></div></div></blockquote></div></div>
+------=_Part_3522_470709361.1420574215026--
+
+------=_Part_3521_457583724.1420574215026--

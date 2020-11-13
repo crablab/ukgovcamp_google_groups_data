@@ -1,0 +1,82 @@
+X-Received: by 10.14.179.134 with SMTP id h6mr2451023eem.7.1390516356645;
+        Thu, 23 Jan 2014 14:32:36 -0800 (PST)
+X-BeenThere: ukg...@googlegroups.com
+Received: by 10.152.37.199 with SMTP id a7ls163743lak.26.gmail; Thu, 23 Jan
+ 2014 14:32:35 -0800 (PST)
+X-Received: by 10.112.56.100 with SMTP id z4mr4819793lbp.0.1390516355949;
+        Thu, 23 Jan 2014 14:32:35 -0800 (PST)
+Return-Path: <drdrn...@gmail.com>
+Received: from mail-wg0-x22b.google.com (mail-wg0-x22b.google.com [2a00:1450:400c:c00::22b])
+        by gmr-mx.google.com with ESMTPS id rk7si547828bkb.2.2014.01.23.14.32.35
+        for <ukg...@googlegroups.com>
+        (version=TLSv1 cipher=ECDHE-RSA-RC4-SHA bits=128/128);
+        Thu, 23 Jan 2014 14:32:35 -0800 (PST)
+Received-SPF: pass (google.com: domain of drdrn...@gmail.com designates 2a00:1450:400c:c00::22b as permitted sender) client-ip=2a00:1450:400c:c00::22b;
+Authentication-Results: gmr-mx.google.com;
+       spf=pass (google.com: domain of drdrn...@gmail.com designates 2a00:1450:400c:c00::22b as permitted sender) smtp.mail=drdrn...@gmail.com;
+       dkim=pass head...@gmail.com;
+       dmarc=pass (p=NONE dis=NONE) header.from=gmail.com
+Received: by mail-wg0-x22b.google.com with SMTP id y10so2250947wgg.22
+        for <ukg...@googlegroups.com>; Thu, 23 Jan 2014 14:32:35 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=message-id:date:from:user-agent:mime-version:to:subject:references
+         :in-reply-to:content-type:content-transfer-encoding;
+        bh=mnGd2vs0ZcCxcHnsdc55VuaDCVrcao8ED3ehwSMGorM=;
+        b=TYCCrwx36nUQt/esG0BhetspEzEi1lTYMaGReV9zHoAH4j+YSENh6w53DKkrXvV/NO
+         PefzBr+BIYULzxYrMlhQdzyV4deW4+cI4/GBYKv+/NJF+VlJ8eyqrT7P/Fjvg9p7aiFM
+         MpguLtrSpzQIqbgHt5gw7+PggQZmS7Pwdm671dMSTdYsPaDScf7wPvjZGguF/JvviVr2
+         ULG55UmdbbLpsCteFHKJLlcIQ2ovPa4KtDhWyTHtNWQhyAv5bInIgEi47PPrIGPH6Nfq
+         lG6O3s97rD5A2HdmmXtVQ5IaBO/w9dAx2MZlwdKDILeqig2xPBGFspeiydzVnH28cH2z
+         5Y8w==
+X-Received: by 10.194.87.5 with SMTP id t5mr141884wjz.68.1390516355800;
+        Thu, 23 Jan 2014 14:32:35 -0800 (PST)
+Return-Path: <drdrn...@gmail.com>
+Received: from [192.168.0.2] (cpc8-oxfd21-2-0-cust164.4-3.cable.virginm.net. [80.6.80.165])
+        by mx.google.com with ESMTPSA id dm2sm1337059wib.8.2014.01.23.14.32.33
+        for <ukg...@googlegroups.com>
+        (version=TLSv1 cipher=ECDHE-RSA-RC4-SHA bits=128/128);
+        Thu, 23 Jan 2014 14:32:34 -0800 (PST)
+Message-ID: <52E19881.30300@gmail.com>
+Date: Thu, 23 Jan 2014 22:32:33 +0000
+From: David Newman <drdrn...@gmail.com>
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:24.0) Gecko/20100101 Thunderbird/24.2.0
+MIME-Version: 1.0
+To: ukg...@googlegroups.com
+Subject: Re: [ukgc14:206] Re: Can we get in beforehand to set up an augmented
+ reality exhibition?
+References: <7f4b7192-cf2c-4381-b82d-c1685cd76545@googlegroups.com> <0254647b-5745-4e3e-bd90-474d33ffcffa@googlegroups.com>
+In-Reply-To: <0254647b-5745-4e3e-bd90-474d33ffcffa@googlegroups.com>
+X-Enigmail-Version: 1.5.2
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Thanks for the contacts, Graeme. As we cannot stick things on the walls
+at UKGovCamp I'm not doing an AR exhibition there. But I am looking to
+put one together to use on another occasion.
+
+Good luck on the day. I had asthma attacks when the tickets were
+available, so I couldn't get one.
+
+David
+
+On 22/01/14 09:47, Graeme Jones wrote:
+> Hi David
+> 
+> Andres at Virtually Free (based in London) are doing some amazing things
+> with NHS trusts on phobias such as spiders and addictions such as
+> drugs/alcohol/gambling with Aurasma mobile apps.  It could be worth a
+> call or meetup at some point:
+> Andres Fonseca
+> co-founder and ceo
+> 07796697009 <tel:07796697009>
+> @AndrFon
+> www.virtually-free.com <http://www.virtually-free.com/>
+> 
+> Graeme
+
+-- 
+Dr. David R. Newman, Oxford <drdrn...@gmail.com>
+http://www.greenoxfordshire.com/
+Twitter, Facebook: @davidrnewman
+Tel. 01865 429750, 077707 35474

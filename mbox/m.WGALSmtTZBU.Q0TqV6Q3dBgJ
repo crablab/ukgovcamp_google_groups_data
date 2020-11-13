@@ -1,0 +1,147 @@
+X-Received: by 10.236.115.105 with SMTP id d69mr36321587yhh.32.1357926741708;
+        Fri, 11 Jan 2013 09:52:21 -0800 (PST)
+X-BeenThere: ukg...@googlegroups.com
+Received: by 10.49.94.82 with SMTP id da18ls2516080qeb.26.gmail; Fri, 11 Jan
+ 2013 09:52:20 -0800 (PST)
+X-Received: by 10.224.198.196 with SMTP id ep4mr44000762qab.3.1357926740323;
+        Fri, 11 Jan 2013 09:52:20 -0800 (PST)
+X-Received: by 10.224.198.196 with SMTP id ep4mr44000761qab.3.1357926740305;
+        Fri, 11 Jan 2013 09:52:20 -0800 (PST)
+Return-Path: <punto...@gmail.com>
+Received: from mail-qc0-f179.google.com (mail-qc0-f179.google.com [209.85.216.179])
+        by gmr-mx.google.com with ESMTPS id eb7si842512qcb.3.2013.01.11.09.52.20
+        (version=TLSv1 cipher=ECDHE-RSA-RC4-SHA bits=128/128);
+        Fri, 11 Jan 2013 09:52:20 -0800 (PST)
+Received-SPF: pass (google.com: domain of punto...@gmail.com designates 209.85.216.179 as permitted sender) client-ip=209.85.216.179;
+Authentication-Results: gmr-mx.google.com;
+       spf=pass (google.com: domain of punto...@gmail.com designates 209.85.216.179 as permitted sender) smtp.mail=punto...@gmail.com;
+       dkim=pass head...@gmail.com
+Received: by mail-qc0-f179.google.com with SMTP id b14so1288137qcs.10
+        for <ukg...@googlegroups.com>; Fri, 11 Jan 2013 09:52:20 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:in-reply-to:references:date:message-id:subject:from:to
+         :cc:content-type;
+        bh=xN/VT/CJoZxENqxpgx35cCrl8cM81m1bhTnXtzqHuAY=;
+        b=dfwNQGHJoGNWeo42tWH1fnE8vP7JDtMSptZZzlBtOrkNbNTQjKnpZQampo9Q89PNBe
+         sN6K1buaAyDlehhmQ7FpHbHv94/xIp4S5oXop3PkOOLowvrGi43AUumJ4blodOUfj/Fg
+         mHMZakaumdGhXgjnFeXAJOki/1R2sEVA/p1gMG2ZaXlaP/W96e9Hv3/1tpMd4WsoxjIZ
+         X8+mnv9rWtXlhlw2bmQPWISH7CnSjo7NkQVEy3ZgPXSbQqKMx9MoTDiwhP6l2tfdjW1P
+         UTCPtQYmgwXHFfKVx5pzyQJsdtt+3YytpeqcPHyRkHT8yXFM7R89iZ4sCFT4AXxTV4yM
+         kHCg==
+MIME-Version: 1.0
+Received: by 10.224.110.1 with SMTP id l1mr20234988qap.21.1357926740148; Fri,
+ 11 Jan 2013 09:52:20 -0800 (PST)
+Received: by 10.49.14.69 with HTTP; Fri, 11 Jan 2013 09:52:20 -0800 (PST)
+Received: by 10.49.14.69 with HTTP; Fri, 11 Jan 2013 09:52:20 -0800 (PST)
+In-Reply-To: <f2e49da2-0823-486c-8806-74749af2e4d8@googlegroups.com>
+References: <f2e49da2-0823-486c-8806-74749af2e4d8@googlegroups.com>
+Date: Fri, 11 Jan 2013 17:52:20 +0000
+Message-ID: <CA+oG9b39hg7mH4N=byw_tec-xg0Ocg_2Kh=7iQ7rdoDo=-G-Dg@mail.gmail.com>
+Subject: Re: [ukgc13:66] Pre-drinks on Friday night!
+From: Giuseppe Sollazzo <punto...@gmail.com>
+To: Hadley Beeman <hadley...@gmail.com>
+Cc: ukg...@googlegroups.com
+Content-Type: multipart/alternative; boundary=20cf3074d560fa42be04d306f4f4
+
+--20cf3074d560fa42be04d306f4f4
+Content-Type: text/plain; charset=ISO-8859-1
+
+Nice :)
+
+If I don't land too late back from WhereCampEu (#wceu13 if anyone's
+interested) I'll join you for one!
+
+G
+
+--
+Giuseppe Sollazzo (on mobile)
+www.puntofisso.net
+@puntofisso
+ On 11 Jan 2013 17:05, "Hadley Beeman" <hadley...@gmail.com> wrote:
+
+> Attention UKGovCampers!  *All* GovCampers -- including those of you who
+> aren't holding a ticket for this year.
+>
+> Join us for drinks, catch-ups, reminiscences and the inevitable bit of
+> mayhem on Friday night, the 18th of January (the night before GovCamp).
+>
+> We'll be at:
+>
+> Old Monk Exchange <http://plus.google.com/115060626786682231984/>
+> 61 Victoria Street <http://plus.google.com/115060626786682231984/>
+> London SW1H 0HW <http://plus.google.com/115060626786682231984/>
+>
+>
+> From 6pm onwards.  Pop in for an after-work drink or settle in and enjoy
+> the evening.
+>
+> Big thanks to FirmStep and Delib for generously sponsoring us.
+>
+> See you there!
+>
+> --
+> You received this message because you are subscribed to the Google Groups
+> "#ukgc13 United Kingdom Government Camp 2013" group.
+> To post to this group, send an email to ukg...@googlegroups.com.
+> To unsubscribe from this group, send email to
+> ukg...@googlegroups.com.
+> For more options, visit https://groups.google.com/groups/opt_out.
+>
+>
+>
+
+--20cf3074d560fa42be04d306f4f4
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+<p dir=3D"ltr">Nice :)</p>
+<p dir=3D"ltr">If I don&#39;t land too late back from WhereCampEu (#wceu13 =
+if anyone&#39;s interested) I&#39;ll join you for one!</p>
+<p dir=3D"ltr">G</p>
+<p dir=3D"ltr">--<br>
+Giuseppe Sollazzo (on mobile)<br>
+<a href=3D"http://www.puntofisso.net">www.puntofisso.net</a><br>
+@puntofisso<br>
+</p>
+<div class=3D"gmail_quote">On 11 Jan 2013 17:05, &quot;Hadley Beeman&quot; =
+&lt;<a href=3D"mailto:hadley...@gmail.com">hadley...@gmail.com</a>&gt; wrot=
+e:<br type=3D"attribution"><blockquote class=3D"gmail_quote" style=3D"margi=
+n:0 0 0 .8ex;border-left:1px #ccc solid;padding-left:1ex">
+Attention UKGovCampers! =A0<b>All</b> GovCampers -- including those of you =
+who aren&#39;t holding a ticket for this year.<div><br></div><div>Join us f=
+or drinks, catch-ups, reminiscences and the inevitable bit of mayhem on <fo=
+nt size=3D"4">Friday night, the 18th of January </font><font>(the night bef=
+ore GovCamp).</font></div>
+<div><font><br></font></div><div><font>We&#39;ll be at:</font></div><div><f=
+ont><br></font></div><blockquote style=3D"margin:0 0 0 40px;border:none;pad=
+ding:0px"><div><font><a href=3D"http://plus.google.com/11506062678668223198=
+4/" target=3D"_blank">Old Monk Exchange</a></font></div>
+<div><span><div><span dir=3D"ltr"><a href=3D"http://plus.google.com/1150606=
+26786682231984/" target=3D"_blank">61 Victoria Street</a></span></div></spa=
+n></div><div><span><div><span dir=3D"ltr"><a href=3D"http://plus.google.com=
+/115060626786682231984/" target=3D"_blank">London SW1H 0HW</a></span></div>
+</span></div></blockquote><div><span><div><span dir=3D"ltr"><br></span></di=
+v><div><span dir=3D"ltr">From 6pm onwards. =A0Pop in for an after-work drin=
+k or settle in and enjoy the evening.</span></div><div><span dir=3D"ltr"><b=
+r></span></div>
+<div><span dir=3D"ltr">Big thanks to FirmStep and Delib for generously spon=
+soring us.=A0</span></div><div><span dir=3D"ltr"><br></span></div><div><spa=
+n dir=3D"ltr">See you there!</span></div></span></div>
+
+<p></p>
+
+-- <br>
+You received this message because you are subscribed to the Google Groups &=
+quot;#ukgc13 United Kingdom Government Camp 2013&quot; group.<br>
+To post to this group, send an email to <a href=3D"mailto:ukg...@googlegrou=
+ps.com" target=3D"_blank">ukg...@googlegroups.com</a>.<br>
+To unsubscribe from this group, send email to <a href=3D"mailto:ukgc13%2Bu.=
+..@googlegroups.com" target=3D"_blank">ukg...@googlegroups.com</a>.<br>
+For more options, visit <a href=3D"https://groups.google.com/groups/opt_out=
+" target=3D"_blank">https://groups.google.com/groups/opt_out</a>.<br>
+=A0<br>
+=A0<br>
+</blockquote></div>
+
+--20cf3074d560fa42be04d306f4f4--

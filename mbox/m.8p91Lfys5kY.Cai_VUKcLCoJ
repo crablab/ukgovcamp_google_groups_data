@@ -1,0 +1,163 @@
+X-Received: by 10.224.72.199 with SMTP id n7mr52007247qaj.5.1358111040398;
+        Sun, 13 Jan 2013 13:04:00 -0800 (PST)
+X-BeenThere: ukg...@googlegroups.com
+Received: by 10.49.27.137 with SMTP id t9ls3294632qeg.60.gmail; Sun, 13 Jan
+ 2013 13:03:59 -0800 (PST)
+X-Received: by 10.224.190.193 with SMTP id dj1mr51998340qab.6.1358111039727;
+        Sun, 13 Jan 2013 13:03:59 -0800 (PST)
+X-Received: by 10.224.190.193 with SMTP id dj1mr51998339qab.6.1358111039711;
+        Sun, 13 Jan 2013 13:03:59 -0800 (PST)
+Return-Path: <punto...@gmail.com>
+Received: from mail-qa0-f41.google.com (mail-qa0-f41.google.com [209.85.216.41])
+        by gmr-mx.google.com with ESMTPS id fg3si1457639qcb.2.2013.01.13.13.03.59
+        (version=TLSv1 cipher=ECDHE-RSA-RC4-SHA bits=128/128);
+        Sun, 13 Jan 2013 13:03:59 -0800 (PST)
+Received-SPF: pass (google.com: domain of punto...@gmail.com designates 209.85.216.41 as permitted sender) client-ip=209.85.216.41;
+Authentication-Results: gmr-mx.google.com;
+       spf=pass (google.com: domain of punto...@gmail.com designates 209.85.216.41 as permitted sender) smtp.mail=punto...@gmail.com;
+       dkim=pass head...@gmail.com
+Received: by mail-qa0-f41.google.com with SMTP id o19so1020194qap.0
+        for <ukg...@googlegroups.com>; Sun, 13 Jan 2013 13:03:59 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:in-reply-to:references:date:message-id:subject:from:to
+         :cc:content-type;
+        bh=Ed2lqR3ONO29gf9zmtQhWqIghYF76qKjUeOQ79DbMrk=;
+        b=sY7Nu7ZtXJ2xD4kqH0IKG/9FHupX+71kIK9xQLjMmh6qsRoCI4EhsczU0NqQpFI8fZ
+         /8uYRzAHhlT7nkrv9moy493ul4mSUPUaeNZ3f9Gu1erPcvA495iszJQs8OxGMtF5ByDc
+         vN8t/Vn88TU+Ci5AsMqU5cb6wKKQqy18zKLjOnWCwZmNMjp9iA78ditrNfofHWf3uP7d
+         hGdwKdyP/FVMmsZrtbvMKOewIHNzjuQK92ijMDxXNKHaB4SbAWNABSjDktSJ+5fV8w4v
+         D4maiTjaEXWDThA6uMZ70QRwv631PcUc/kZx8gZ3aFQxuQ8lNgmUiNHUlK1YAe/O0s2D
+         hQwg==
+MIME-Version: 1.0
+Received: by 10.224.184.130 with SMTP id ck2mr68904312qab.41.1358111039435;
+ Sun, 13 Jan 2013 13:03:59 -0800 (PST)
+Received: by 10.49.14.69 with HTTP; Sun, 13 Jan 2013 13:03:59 -0800 (PST)
+In-Reply-To: <3114b0ff-af9f-48ca-8a80-d2fccfd5d1e7@googlegroups.com>
+References: <3e208ae3-90ff-49be-8312-57ea5c38a750@googlegroups.com>
+	<3114b0ff-af9f-48ca-8a80-d2fccfd5d1e7@googlegroups.com>
+Date: Sun, 13 Jan 2013 21:03:59 +0000
+Message-ID: <CA+oG9b32csJ20Ncqbrbis4TW7dSW0UEb-0QxvKXrpOrJB44fng@mail.gmail.com>
+Subject: Re: [ukgc13:85] Re: 3D printing by the public sector
+From: Giuseppe Sollazzo <punto...@gmail.com>
+To: Sue Lawson <thn...@gmail.com>
+Cc: ukg...@googlegroups.com
+Content-Type: multipart/alternative; boundary=20cf30334c5b12325e04d331de60
+
+--20cf30334c5b12325e04d331de60
+Content-Type: text/plain; charset=ISO-8859-1
+
+Always interested in this topic, too :)
+
+I have more of a personal interest, to be honest, although work-wise (my
+day job is for a medical school) we're investigating whether using 3d
+prints of human organs can be a learning tool for medical students.
+
+My idea is that the more "geeky" among them might get some learning insight
+by 3d-printing brains, hearts and livers.
+
+G
+
+On Sun, Jan 13, 2013 at 9:01 PM, Sue Lawson <thn...@gmail.com> wrote:
+
+> Yeah I'm in - there's been a lot of debate about 3D printing and
+> libraries online recently. Comments get pretty interesting here
+> http://quartz.syr.edu/blog/?p=**2538#comments<http://quartz.syr.edu/blog/?p=2538#comments>.
+> The blog post that sparked it  http://hughrundle.net/2013/01/**
+> 02/mission-creep-a-3d-printer-**will-not-save-your-library<http://hughrundle.net/2013/01/02/mission-creep-a-3d-printer-will-not-save-your-library> and
+> a view from Phil Bradley http://philbradley.typepad.**
+> com/phil_bradleys_weblog/2013/**01/3d-printing-is-it-for-**libraries.html<http://philbradley.typepad.com/phil_bradleys_weblog/2013/01/3d-printing-is-it-for-libraries.html>
+> .
+>
+>
+> On Tuesday, January 8, 2013 5:44:29 PM UTC, Mark Braggins wrote:
+>
+>> Is anyone already printing 3D, or thinking about doing so?
+>> Fancy comparing notes?
+>>
+>>  --
+> You received this message because you are subscribed to the Google Groups
+> "#ukgc13 United Kingdom Government Camp 2013" group.
+> To post to this group, send an email to ukg...@googlegroups.com.
+> To unsubscribe from this group, send email to
+> ukg...@googlegroups.com.
+> For more options, visit https://groups.google.com/groups/opt_out.
+>
+>
+>
+
+
+
+-- 
+Giuseppe Sollazzo
+- http://www.puntofisso.net
+- http://twitter.com/puntofisso
+
+My newsletter is available at: http://tinyletter.com/puntofisso
+
+"Gorau chwarae, cyd chwarae'"
+
+--20cf30334c5b12325e04d331de60
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+Always interested in this topic, too :)<div><br></div><div>I have more of a=
+ personal interest, to be honest, although work-wise (my day job is for a m=
+edical school) we&#39;re investigating whether using 3d prints of human org=
+ans can be a learning tool for medical students.=A0</div>
+<div><br></div><div>My idea is that the more &quot;geeky&quot; among them m=
+ight get some learning insight by 3d-printing brains, hearts and livers.</d=
+iv><div><br></div><div>G<br><br><div class=3D"gmail_quote">On Sun, Jan 13, =
+2013 at 9:01 PM, Sue Lawson <span dir=3D"ltr">&lt;<a href=3D"mailto:thn...@=
+gmail.com" target=3D"_blank">thn...@gmail.com</a>&gt;</span> wrote:<br>
+<blockquote class=3D"gmail_quote" style=3D"margin:0 0 0 .8ex;border-left:1p=
+x #ccc solid;padding-left:1ex">Yeah I&#39;m in - there&#39;s been=A0<span s=
+tyle=3D"font-family:arial,sans-serif">a lot of debate about 3D printing and=
+ libraries online recently. Comments get pretty interesting here=A0</span><=
+a href=3D"http://quartz.syr.edu/blog/?p=3D2538#comments" style=3D"color:rgb=
+(17,85,204);font-family:arial,sans-serif" target=3D"_blank">http://quartz.s=
+yr.edu/blog/?p=3D<u></u>2538#comments</a><span style=3D"font-family:arial,s=
+ans-serif">.=A0 The blog post that sparked it=A0=A0</span><a href=3D"http:/=
+/hughrundle.net/2013/01/02/mission-creep-a-3d-printer-will-not-save-your-li=
+brary" style=3D"color:rgb(17,85,204);font-family:arial,sans-serif" target=
+=3D"_blank">http://hughrundle.net/2013/01/<u></u>02/mission-creep-a-3d-prin=
+ter-<u></u>will-not-save-your-library</a><span style=3D"font-family:arial,s=
+ans-serif">=A0and a view from Phil Bradley=A0</span><a href=3D"http://philb=
+radley.typepad.com/phil_bradleys_weblog/2013/01/3d-printing-is-it-for-libra=
+ries.html" style=3D"color:rgb(17,85,204);font-family:arial,sans-serif" targ=
+et=3D"_blank">http://philbradley.typepad.<u></u>com/phil_bradleys_weblog/20=
+13/<u></u>01/3d-printing-is-it-for-<u></u>libraries.html</a><span style=3D"=
+font-family:arial,sans-serif">.=A0</span><div class=3D"im HOEnZb">
+<br><br>On Tuesday, January 8, 2013 5:44:29 PM UTC, Mark Braggins wrote:</d=
+iv><div class=3D"HOEnZb"><div class=3D"h5"><blockquote class=3D"gmail_quote=
+" style=3D"margin:0;margin-left:0.8ex;border-left:1px #ccc solid;padding-le=
+ft:1ex">
+Is anyone already printing 3D, or thinking about doing so?<div>Fancy compar=
+ing notes?<div><br></div></div></blockquote>
+
+<p></p>
+
+-- <br>
+You received this message because you are subscribed to the Google Groups &=
+quot;#ukgc13 United Kingdom Government Camp 2013&quot; group.<br>
+To post to this group, send an email to <a href=3D"mailto:ukg...@googlegrou=
+ps.com" target=3D"_blank">ukg...@googlegroups.com</a>.<br>
+To unsubscribe from this group, send email to <a href=3D"mailto:ukgc13%2Bu.=
+..@googlegroups.com" target=3D"_blank">ukg...@googlegroups.com</a>.<br>
+For more options, visit <a href=3D"https://groups.google.com/groups/opt_out=
+" target=3D"_blank">https://groups.google.com/groups/opt_out</a>.<br>
+=A0<br>
+=A0<br>
+</div></div></blockquote></div><br><br clear=3D"all"><div><br></div>-- <br>=
+Giuseppe Sollazzo<br>- <a href=3D"http://www.puntofisso.net" target=3D"_bla=
+nk">http://www.puntofisso.net</a><br>- <a href=3D"http://twitter.com/puntof=
+isso" target=3D"_blank">http://twitter.com/puntofisso</a><br>
+<br>My newsletter is available at: <a href=3D"http://tinyletter.com/puntofi=
+sso" target=3D"_blank">http://tinyletter.com/puntofisso</a><br><br>&quot;<s=
+pan style=3D"font-family:sans-serif;font-size:13px;line-height:19px;backgro=
+und-color:rgb(255,255,255)">Gorau chwarae, cyd chwarae&#39;</span>&quot;<br=
+>
+<br>
+</div>
+
+--20cf30334c5b12325e04d331de60--
